@@ -1,0 +1,3 @@
+A button to save posts.
+A button to view saved posts.
+Both the features should be accessible via keybd shortcut and voice command.
